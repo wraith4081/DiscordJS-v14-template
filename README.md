@@ -1,4 +1,4 @@
-This repositorie is when you want to bot using the v14 version of DiscordJS. It's made to allow you to get started simply without messing with the standard stuff. A better result has been achieved by configuring NodeJS with TypeScript for the ultimate performance and experience. To run the code, simply follow the steps below.
+This repository is when you want to bot using the v14 version of DiscordJS. It's made to allow you to get started simply without messing with the standard stuff. A better result has been achieved by configuring NodeJS with TypeScript for the ultimate performance and experience. To run the code, simply follow the steps below.
 
 # Setup
 ```sh
